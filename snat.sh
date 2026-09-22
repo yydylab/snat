@@ -61,7 +61,7 @@ INITIAL_SNAPSHOT_ID="000-initial"
 
 TTY_IN="/dev/tty"
 SELF_UPDATE_URL_PRIMARY="https://www.feijiangkeji.com/assets/uploads/snat.sh"
-SELF_UPDATE_URL_SECONDARY="https://pan.yydy.link:2023/d/share/script/snat.sh"
+SELF_UPDATE_URL_SECONDARY="https://pan.yydy.link:9527/d/share/script/snat.sh"
 
 TMP_BASE="${TMPDIR:-/tmp}"
 SNAT_TMP="$(mktemp "${TMP_BASE}/${PROGRAM_NAME}.snat.XXXXXX")"
